@@ -1,0 +1,151 @@
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe.config
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.pdb
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.xml
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.exe
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.xml
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.pdb
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdIniciarSesion.resources
+c:\users\user\documents\visual studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdMain.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdAutores.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdCategorias.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdClientes.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibros.resources
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe.config
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.exe
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.xml
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.pdb
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdAutores.resources
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdCategorias.resources
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdClientes.resources
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdIniciarSesion.resources
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibros.resources
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdMain.resources
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.Resources.resources
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.vbproj.GenerateResource.Cache
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe.config
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.exe
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.xml
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.pdb
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdAutores.resources
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdCategorias.resources
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdClientes.resources
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdIniciarSesion.resources
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibros.resources
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdMain.resources
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.Resources.resources
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.vbproj.GenerateResource.Cache
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.pdb
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.xml
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.pdb
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.xml
+E:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdEmpleados.resources
+F:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdEmpleados.resources
+H:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe.config
+H:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.exe
+H:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.xml
+H:\Tecnicatura en Desarrollo de Software\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.pdb
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe.config
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.exe
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.xml
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.pdb
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdAutores.resources
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdCategorias.resources
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdClientes.resources
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdEmpleados.resources
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdIniciarSesion.resources
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibros.resources
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdMain.resources
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdPrestamos.resources
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.Resources.resources
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.vbproj.GenerateResource.Cache
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.pdb
+C:\Users\JULIO RUIZ\Documents\Gab\C++\UX\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.xml
+H:\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe.config
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.exe
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.xml
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.pdb
+H:\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe
+H:\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.pdb
+H:\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.xml
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdAutores.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdCategorias.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdClientes.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdEmpleados.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdIniciarSesion.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdMain.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdPrestamos.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.Resources.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.vbproj.GenerateResource.Cache
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdPrestamosMain.resources
+E:\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe.config
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.exe
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.xml
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.pdb
+E:\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe
+E:\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.pdb
+E:\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.xml
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdAutores.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdCategorias.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdClientes.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdEmpleados.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdIniciarSesion.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibros.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdMain.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdPrestamos.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdPrestamosMain.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.Resources.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.popAdvertencia.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.popSalir.resources
+E:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.vbproj.GenerateResource.Cache
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.popAdvertencia.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.popSalir.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibrosRevised.resources
+H:\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibrosNew.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe.config
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.exe
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.xml
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.pdb
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.pdb
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.xml
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdAutores.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdCategorias.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdClientes.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdEmpleados.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdIniciarSesion.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibrosRevised.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibrosNew.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdMain.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdPrestamos.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdPrestamosMain.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.Resources.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.popAdvertencia.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.popSalir.resources
+C:\Users\Public\Videos\Entai\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.vbproj.GenerateResource.Cache
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe.config
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.exe
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.xml
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.pdb
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.exe
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.pdb
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\bin\Debug\bdBiblioteca.xml
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdAutores.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdCategorias.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdClientes.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdEmpleados.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdIniciarSesion.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibrosRevised.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdLibrosNew.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdMain.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdPrestamos.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.bdPrestamosMain.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.Resources.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.popAdvertencia.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.popSalir.resources
+C:\Users\Public\Videos\Hey\BasedeDatos\bdBiblioteca\bdBiblioteca\obj\Debug\bdBiblioteca.vbproj.GenerateResource.Cache

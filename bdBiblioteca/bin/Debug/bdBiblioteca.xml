@@ -1,0 +1,104 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+bdBiblioteca
+</name>
+</assembly>
+<members>
+<member name="P:bdBiblioteca.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.clientes">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_add_file_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_book_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_borrow_book_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_category_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_circle_100">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_customer_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_data_grid_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_error_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_eye_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_identification_documents_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_library_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_login_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_logout_rounded_left_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_man_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_menu_50__1_">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_menu_vertical_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_quill_with_ink_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_user_rights_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:bdBiblioteca.My.Resources.Resources.icons8_username_50">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:bdBiblioteca.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>
