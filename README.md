@@ -19,10 +19,10 @@ Programas usados:
 -Microsoft Visual Studio Express 2012  
 -Microsoft Access 2010
 
-Relational model  
+**Relational model**  
 ![bdBibliotecadb](https://user-images.githubusercontent.com/85672399/137662470-62823686-bd86-4264-a2a9-4a6e05be0850.png)
 
-Screenshots  
+**Screenshots**  
 
 EN: Some screenshots to showcase the project  
 ES: Algunas capturas de pantalla para mostrar el proyecto  
