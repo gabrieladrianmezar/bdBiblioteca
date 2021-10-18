@@ -2,7 +2,7 @@
 
 **English**
 
-Library CRUD Project for Professional Practices during the first year of the High Technician in Software Development course.  
+Library CRUD Project for Professional Practices made during the first year of the High Technician in Software Development course.  
 2019
 
 Programs used:  
@@ -12,7 +12,7 @@ Programs used:
 
 **Español** 
  
-Proyecto ABM/CRUD Biblioteca para Prácticas Profesionalizantes durante el primer año del cursado de la carrera Técnico Superior en Desarrollo de Software.  
+Proyecto ABM/CRUD Biblioteca para Prácticas Profesionalizantes hecho durante el primer año del cursado de la carrera Técnico Superior en Desarrollo de Software.  
 2019
 
 Programas usados:  
