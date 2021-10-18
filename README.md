@@ -19,13 +19,13 @@ Programas usados:
 -Microsoft Visual Studio Express 2012  
 -Microsoft Access 2010
 
-Relational model
+Relational model  
 ![bdBibliotecadb](https://user-images.githubusercontent.com/85672399/137662470-62823686-bd86-4264-a2a9-4a6e05be0850.png)
 
-Screenshots
+Screenshots  
 
-EN: Some screenshots to showcase the project
-ES: Algunas capturas de pantalla para mostrar el proyecto
+EN: Some screenshots to showcase the project  
+ES: Algunas capturas de pantalla para mostrar el proyecto  
 
 ![bdBibliotecalogin](https://user-images.githubusercontent.com/85672399/137663927-837f94c5-28a2-4229-a906-4fc283f852ef.png)
 ![bdBibliotecamain](https://user-images.githubusercontent.com/85672399/137663912-c31f76b1-1ea2-46cf-b4df-4bd34f9eb26e.png)
