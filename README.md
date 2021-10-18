@@ -9,9 +9,6 @@ Programs used:
 -Microsoft Visual Studio Express 2012  
 -Microsoft Access 2010
 
-Relational model
-![bdBibliotecadb](https://user-images.githubusercontent.com/85672399/137662470-62823686-bd86-4264-a2a9-4a6e05be0850.png)
-
 
 **Español** 
  
@@ -22,7 +19,7 @@ Programas usados:
 -Microsoft Visual Studio Express 2012  
 -Microsoft Access 2010
 
-Modelo relacional
+Relational model
 ![bdBibliotecadb](https://user-images.githubusercontent.com/85672399/137662470-62823686-bd86-4264-a2a9-4a6e05be0850.png)
 
 Screenshots
